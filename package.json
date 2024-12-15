@@ -2,9 +2,10 @@
   "name": "passport_express_demo",
   "version": "1.0.0",
   "description": "Learn a bit more about authentication with passportjs",
-  "main": "index.js",
+  "main": "index.mjs",
+  "type": "module",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.mjs"
   },
   "author": "Michael-cmd-sys",
   "license": "ISC",
